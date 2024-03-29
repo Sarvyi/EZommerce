@@ -2,8 +2,8 @@ import 'package:ezom/utils/constants/image_strings.dart';
 import 'package:ezom/utils/constants/sizes.dart';
 import 'package:flutter/material.dart';
 
-class SocailButtonWidget extends StatelessWidget {
-  const SocailButtonWidget({
+class SocialButtonWidget extends StatelessWidget {
+  const SocialButtonWidget({
     super.key,
   });
 

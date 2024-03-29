@@ -43,4 +43,7 @@ static const String promoBanner3 = "assets/images/products/promo-banner-3.png";
 // Product Images
 static const String productImage1 = 'assets/images/products/acer_laptop_1.png';
 
+
+// Animation lottie
+static const String docerAnimation = "assets/images/animations/loader-animation.json";
 }
